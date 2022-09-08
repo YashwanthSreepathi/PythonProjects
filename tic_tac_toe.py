@@ -1,3 +1,5 @@
+# Two Player game using tkinter.
+
 from tkinter import *
 import random
 
